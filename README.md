@@ -1,5 +1,8 @@
 # MLOps template
 
+## Add prediction logic
+Find # TODO in the source code and update that with proper logic  
+
 ### Setup
 1. Copy your trained model in the same directory where this `README.md`` file is located.
 2. Copy the python packages that are already installed and paste it in the bottom of the `requirements.txt` file.  
